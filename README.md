@@ -29,8 +29,7 @@ Descripción:
 
 >>> Describa la idea de su producto en la práctica 2 
 
-Logotipo: <img width="663" height="573" alt="image" src="https://github.com/user-attachments/assets/d12e3c52-49ae-4093-b8db-c859ee30faa5" />
-
+Logotipo:
 
 Miembros y nombre del equipo:
  * :bust_in_silhouette:  Javier Ruiz Ramírez     :octocat:     
@@ -65,16 +64,19 @@ Miembros y nombre del equipo:
 ### 1.c Personas
 ![Método UX](img/Persona.png) 
 -----
-Exponemos estos dos perfiles de personas distintas, donde cada uno mediante su experiencia, dara su punto de vista, dando asi dos puntos de vista completamente distintas pero con objetivos comunes
->>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
-
+Exponemos estos dos perfiles de personas distintas, donde cada uno mediante su experiencia, dara su punto de vista, dando asi dos puntos de vista completamente distintas pero con objetivos comunes. Sofia estudiante excepcional que busca lugares tranquilos donde poder pasar su timepo libre. Javier trabajdor cualificado le gusta trabajar fuera de casa en sitios que le permitan concentrarse.
+[WhatsApp Image 2026-03-12 at 11.53.55.pdf](https://github.com/user-attachments/files/26032789/WhatsApp.Image.2026-03-12.at.11.53.55.pdf)
+[Persona 1.pdf](https://github.com/user-attachments/files/26032874/Persona.1.pdf)
 
 ### 1.d User Journey Map
 ![Método UX](img/JourneyMap.png) 
 ----
+Javier y Sofía buscan pasar su tiempo en cafeterías en una experiencia de tranquilidad, aunque desde necesidades distintas. Para Javier, un diseñador de 34 años, la prioridad absoluta es la accesibilidad física. Su mayor obstáculo es la falta de información clara en las webs sobre l adaptabilidad, enfrentándose a barreras como puertas manuales o baños no acondicionados que limitan su autonomía. A pesar de estos retos, cuando encuentra un lugar 100% accesible, valora profundamente la posibilidad de trabajar con tranquilidad y recomendar el sitio a sus colegas.
 
->>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
+Por otro lado, Sofía, una estudiante de 23 años, busca en las cafeterías un lugar tranquilo para el estrés de su máster. Su búsqueda se centra en encontrar ambientes limpios, silenciosos y con buena iluminación que le permitan leer y desconectar. Aunque le preocupa encontrarse con locales abarrotados o ruidosos que no cumplan con las reseñas de internet, valora la rapidez del servicio. Para ella, un local espacioso y ordenado es clave para decidirse a visitarlo con regularidad.
 
+[UserJourneyMap1.pdf](https://github.com/user-attachments/files/26033213/UserJourneyMap1.pdf)
+[Persona & User Journey Map McDonald (Copia)-2.pdf](https://github.com/user-attachments/files/26033217/Persona.User.Journey.Map.McDonald.Copia.-2.pdf)
 
 ### 1.e Usability Review
 ![Método UX](img/usabilityReview.png) 
