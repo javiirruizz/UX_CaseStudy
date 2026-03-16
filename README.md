@@ -29,7 +29,8 @@ Descripción:
 
 >>> Describa la idea de su producto en la práctica 2 
 
-Logotipo: ![logo](https://github.com/user-attachments/assets/e10f498b-e785-456e-91c6-98516739f190)
+Logotipo: <img width="663" height="573" alt="image" src="https://github.com/user-attachments/assets/d12e3c52-49ae-4093-b8db-c859ee30faa5" />
+
 
 Miembros y nombre del equipo:
  * :bust_in_silhouette:  Javier Ruiz Ramírez     :octocat:     
