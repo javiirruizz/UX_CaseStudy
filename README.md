@@ -17,29 +17,23 @@ Actualizado: 14/01/2026
 ![Método UX](img/caseStudy.png) 
 -----
 
->>> Este documento es el esqueleto del Case Study que explica el proceso de desarrollo de las 5 prácticas de DIU. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este tipo de texto / comentarios desde la práctica 1 conforme proceda a cada paso
-
 
 >>> Hay que Publicar de forma incremental "my Case Study" en Github... Es el momento de dejar este documento para que sea evaluado y calificado como parte de la práctica
 >>> Documente bien la cabecera y asegurese que ha resumido los pasos realizados para el diseño de su producto
 
-Grupo: DIUx_AABB.  Curso: 2025/26 
+Grupo: DIUAK_A2.  Curso: 2025/26 
 
-Nombre del Proyecto: 
-
->>> Decida el nombre corto de su propuesta en la práctica 2 
+Nombre del Proyecto: Los pajaritos
 
 Descripción: 
 
 >>> Describa la idea de su producto en la práctica 2 
 
-Logotipo: 
-
->>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
+Logotipo: ![logo](https://github.com/user-attachments/assets/e10f498b-e785-456e-91c6-98516739f190)
 
 Miembros y nombre del equipo:
  * :bust_in_silhouette:  Javier Ruiz Ramírez     :octocat:     
- * :bust_in_silhouette:  Daniel Ortega Morena     :octocat:
+ * :bust_in_silhouette:  Daniel Ortega Moreno     :octocat:
 
 >>> Los equipos son de 2 personas. Identifícaros con el nombre del Grupo y los enlaces a los perfiles de GitHub de cada integrante
 
@@ -49,16 +43,9 @@ Miembros y nombre del equipo:
 
 # Proceso de Diseño 
 
-
-
-
-
 <br>
 
 ## Paso 1. UX User & Desk Research & Analisis 
-
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
 
 ### 1.a User Reseach Plan
 ![Método UX](img/Competitive.png) 
@@ -77,7 +64,7 @@ Miembros y nombre del equipo:
 ### 1.c Personas
 ![Método UX](img/Persona.png) 
 -----
-
+Exponemos estos dos perfiles de personas distintas, donde cada uno mediante su experiencia, dara su punto de vista, dando asi dos puntos de vista completamente distintas pero con objetivos comunes
 >>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
 
 
