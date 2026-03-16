@@ -76,8 +76,7 @@ LLevaremos tambien un recuento del timepo que permanece un usuario promedio en l
 
 
 ### 1.c Personas
-![Método UX](img/Persona.png) 
------
+
 Exponemos estos dos perfiles de personas distintas, donde cada uno mediante su experiencia, dara su punto de vista, dando asi dos puntos de vista completamente distintas pero con objetivos comunes. Sofia estudiante excepcional que busca lugares tranquilos donde poder pasar su timepo libre. Javier trabajdor cualificado le gusta trabajar fuera de casa en sitios que le permitan concentrarse.
 
 <img width="1600" height="1014" alt="imagen" src="https://github.com/user-attachments/assets/58012c41-2b05-4f6d-9ab1-835330f53a90" />
