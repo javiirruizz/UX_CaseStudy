@@ -48,8 +48,6 @@ Miembros y nombre del equipo:
 ## Paso 1. UX User & Desk Research & Analisis 
 
 ### 1.a User Reseach Plan
-![Método UX](img/Competitive.png) 
------
 
 Proyecto Epicureum: Análisis de Usabilidad y Competitividad
 
@@ -57,12 +55,13 @@ Nuestro proyecto se centra en el análisis de la usabilidad y la experiencia de 
 
 **Información cualitativa y cuantitativa**
 
-Informacion cualitativa: Compararemos las funcionalidades de Epicureum con Qarmita y Despiertoo para detectar ventajas competitivas y debilidades en la presentación de productos para mejorar los servicios que ofrecen.
+**Informacion cualitativa:** 
+Compararemos las funcionalidades de Epicureum con Qarmita y Despiertoo para detectar ventajas competitivas y debilidades en la presentación de productos para mejorar los servicios que ofrecen.
 
 Diseñaremos perfiles de personas en base a experiencias que hayan tenido en otros locales.
 Observaremos a usuarios reales para ver como se manejan por las distintas paginas web y encontrar los puntos debiles y los puntos a favor para poder mejorarlos apoyandose en la experiencia del uso de varias webs.
 
-Información cuantitativa:
+**Información cuantitativa:**
 Haremos dos pruebas con dos versiones distintas de la página de inicio (una más visual y otra más informativa) para ver cuál genera más ventas y retiene mejor al usuario.
 
 Llevaremos a cabo una serie de preguntas a algunos usuariso que hayan usado la pagina web y veremos el nivel de agrado interactuando con esta, haremos especial interes en si temas como la limpieza, afluencia y accesibilidad para ver si esta informacion es facilmente accesible.
@@ -80,18 +79,19 @@ LLevaremos tambien un recuento del timepo que permanece un usuario promedio en l
 ![Método UX](img/Persona.png) 
 -----
 Exponemos estos dos perfiles de personas distintas, donde cada uno mediante su experiencia, dara su punto de vista, dando asi dos puntos de vista completamente distintas pero con objetivos comunes. Sofia estudiante excepcional que busca lugares tranquilos donde poder pasar su timepo libre. Javier trabajdor cualificado le gusta trabajar fuera de casa en sitios que le permitan concentrarse.
-[WhatsApp Image 2026-03-12 at 11.53.55.pdf](https://github.com/user-attachments/files/26032789/WhatsApp.Image.2026-03-12.at.11.53.55.pdf)
-[Persona 1.pdf](https://github.com/user-attachments/files/26032874/Persona.1.pdf)
+
+<img width="1600" height="1014" alt="imagen" src="https://github.com/user-attachments/assets/58012c41-2b05-4f6d-9ab1-835330f53a90" />
+
+<img width="831" height="627" alt="imagen" src="https://github.com/user-attachments/assets/f0b092bd-5be2-4e94-8cdc-88835fa6ada4" />
 
 ### 1.d User Journey Map
-![Método UX](img/JourneyMap.png) 
-----
+
 Javier y Sofía buscan pasar su tiempo en cafeterías en una experiencia de tranquilidad, aunque desde necesidades distintas. Para Javier, un diseñador de 34 años, la prioridad absoluta es la accesibilidad física. Su mayor obstáculo es la falta de información clara en las webs sobre l adaptabilidad, enfrentándose a barreras como puertas manuales o baños no acondicionados que limitan su autonomía. A pesar de estos retos, cuando encuentra un lugar 100% accesible, valora profundamente la posibilidad de trabajar con tranquilidad y recomendar el sitio a sus colegas.
 
 Por otro lado, Sofía, una estudiante de 23 años, busca en las cafeterías un lugar tranquilo para el estrés de su máster. Su búsqueda se centra en encontrar ambientes limpios, silenciosos y con buena iluminación que le permitan leer y desconectar. Aunque le preocupa encontrarse con locales abarrotados o ruidosos que no cumplan con las reseñas de internet, valora la rapidez del servicio. Para ella, un local espacioso y ordenado es clave para decidirse a visitarlo con regularidad.
 
-[UserJourneyMap1.pdf](https://github.com/user-attachments/files/26033213/UserJourneyMap1.pdf)
-[Persona & User Journey Map McDonald (Copia)-2.pdf](https://github.com/user-attachments/files/26033217/Persona.User.Journey.Map.McDonald.Copia.-2.pdf)
+<img width="832" height="653" alt="imagen" src="https://github.com/user-attachments/assets/8cd862f8-2cc0-4a5f-abaf-1f47fb621b99" />
+<img width="832" height="653" alt="imagen" src="https://github.com/user-attachments/assets/e4d411c3-4b04-4fed-8162-cafae4ae766a" />
 
 ### 1.e Usability Review
 ![Método UX](img/usabilityReview.png) 
