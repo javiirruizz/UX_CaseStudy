@@ -51,8 +51,23 @@ Miembros y nombre del equipo:
 ![Método UX](img/Competitive.png) 
 -----
 
->>> Describe el plan en tu User Research (cómo se plantea la selección de usuarios). Borra esta línea cuando lo tengas.  
+Proyecto Epicureum: Análisis de Usabilidad y Competitividad
 
+Nuestro proyecto se centra en el análisis de la usabilidad y la experiencia de usuario dentro del sector de las cafeterías de especialidad y espacios de trabajo, comparando la plataforma de "Epicureum" con competidores directos como "Qarmita" y "Despiertoo". Veremos cómo los usuarios interactúan con la interfaz para buscar lugares tranquilos o accesibles, identificando barreras de navegación que impiden la conversión y el crecimiento de las ventas. Para ello, investigaremos perfiles diversos, desde diseñadores que requieren accesibilidad total hasta estudiantes que buscan refugio contra el estrés, consiguiendo así una web más intuitiva, inclusiva y competitiva que destaque los productos de la marca.
+
+**Información cualitativa y cuantitativa**
+
+Informacion cualitativa: Compararemos las funcionalidades de Epicureum con Qarmita y Despiertoo para detectar ventajas competitivas y debilidades en la presentación de productos para mejorar los servicios que ofrecen.
+
+Diseñaremos perfiles de personas en base a experiencias que hayan tenido en otros locales.
+Observaremos a usuarios reales para ver como se manejan por las distintas paginas web y encontrar los puntos debiles y los puntos a favor para poder mejorarlos apoyandose en la experiencia del uso de varias webs.
+
+Información cuantitativa:
+Haremos dos pruebas con dos versiones distintas de la página de inicio (una más visual y otra más informativa) para ver cuál genera más ventas y retiene mejor al usuario.
+
+Llevaremos a cabo una serie de preguntas a algunos usuariso que hayan usado la pagina web y veremos el nivel de agrado interactuando con esta, haremos especial interes en si temas como la limpieza, afluencia y accesibilidad para ver si esta informacion es facilmente accesible.
+
+LLevaremos tambien un recuento del timepo que permanece un usuario promedio en la pagina web y cuantas pestañas o secciones de esta visita, para ver si realmente es llamativa y capta a nuevos clientes.
 
 ### 1.b Competitive Analysis
 ![Método UX](img/Competitive.png) 
