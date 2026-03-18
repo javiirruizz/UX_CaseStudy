@@ -98,7 +98,7 @@ Por otro lado, Sofía, una estudiante de 23 años, busca en las cafeterías un l
 <img width="832" height="653" alt="imagen" src="https://github.com/user-attachments/assets/e4d411c3-4b04-4fed-8162-cafae4ae766a" />
 
 ### 1.e Usability Review
-[![Método UX](img/usabilityReview.png)](https://github.com/javiirruizz/UX_CaseStudy/blob/master/P1/Usability-review-template.xlsx) 
+(https://github.com/javiirruizz/UX_CaseStudy/blob/master/P1/Usability-review-template.xlsx) 
 ----
 Valoración final (Puntuación): 95 / 100
 
