@@ -69,10 +69,15 @@ Llevaremos a cabo una serie de preguntas a algunos usuariso que hayan usado la p
 LLevaremos tambien un recuento del timepo que permanece un usuario promedio en la pagina web y cuantas pestañas o secciones de esta visita, para ver si realmente es llamativa y capta a nuevos clientes.
 
 ### 1.b Competitive Analysis
-![Método UX](img/Competitive.png) 
+<img width="5884" height="4069" alt="Competitor Analysis" src="https://github.com/user-attachments/assets/ded2e5ca-7c08-48e7-9b7c-93d43fd7c5c1" />
+
 -----
 
->>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
+El análisis competitivo se ha centrado en comparar la plataforma web de Epicureum frente a dos competidores directos del sector: La Qarmita y Despiertoo. El objetivo principal ha sido evaluar la usabilidad, la arquitectura de la información y cómo cada plataforma comunica su propuesta de valor a los usuarios.
+
+La principal debilidad detectada en Epicureum frente a sus competidores es que su interfaz actual falla al comunicar propuestas de valor críticas de manera intuitiva. Mientras que los usuarios buscan información específica antes de visitar el local (como la adaptación física del espacio o el nivel de aforo y ruido), la web de Epicureum no ofrece esta transparencia. Las fotografías se centran únicamente en el producto gastronómico, obviando mostrar el interior del local, la disposición del mobiliario o las facilidades de acceso.
+
+Como oportunidad de mejora y valor diferencial, Epicureum necesita una reestructuración de su información para destacar frente a La Qarmita y Despiertoo. Si se implementan etiquetas visuales claras sobre accesibilidad (rampas, baños adaptados, mesas regulables) e indicadores del ambiente (ideal para estudiar, nivel sonoro), la marca no solo facilitara la etapa de búsqueda de los usuarios, sino que transformará su experiencia digital en una ventaja competitiva sólida para captar y fidelizar clientes que actualmente están desatendidos.
 
 
 ### 1.c Personas
