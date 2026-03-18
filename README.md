@@ -98,13 +98,15 @@ Por otro lado, Sofía, una estudiante de 23 años, busca en las cafeterías un l
 <img width="832" height="653" alt="imagen" src="https://github.com/user-attachments/assets/e4d411c3-4b04-4fed-8162-cafae4ae766a" />
 
 ### 1.e Usability Review
-![Método UX](img/usabilityReview.png) 
+[![Método UX](img/usabilityReview.png)](https://github.com/javiirruizz/UX_CaseStudy/blob/master/P1/Usability-review-template.xlsx) 
 ----
+Valoración final (Puntuación): 95 / 100
 
->>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
->>> - Enlace al documento:  (xls/pdf) 
->>> - URL y Valoración numérica obtenida: 
->>> - Comentario sobre la revisión:  (puntos fuertes y débiles detectados)
+Tras aplicar la plantilla de revisión de usabilidad al sitio web de Epicureum, el sistema ha obtenido una puntuación de 94.8 sobre 100, lo que lo sitúa en el rango de "Excelente". Esto indica que la inmensa mayoría de los usuarios pueden utilizar el sitio con gran facilidad para completar sus tareas principales.
+
+Puntos Fuertes: A nivel técnico y de flujo de usuario, la web funciona extraordinariamente bien. La navegación es natural y progresiva. Tareas clave como hacer una reserva o consultar la carta están fuertemente soportadas y son fácilmente accesibles a través de botones principales claros. Además, el sitio ofrece una experiencia excelente tanto en navegadores de escritorio como en pantallas de teléfonos móviles (que es desde donde la mayoría de los usuarios realizan las reservas).
+
+Puntos Débiles: A pesar de la excelente puntuación técnica, la evaluación cualitativa ha detectado una carencia importante relacionada con los objetivos de nuestros usuarios persona (Javier y Sofía). Tal y como se refleja en los comentarios de la evaluación: "el principal objetivo de un usuario al visitar la web es ver qué comida ofrecen, la ubicación y cómo reservar; sin embargo, no se puede observar cómo es el sitio".
 
 <br>
 
