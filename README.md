@@ -35,7 +35,6 @@ Miembros y nombre del equipo:
  * :bust_in_silhouette:  Javier Ruiz Ramírez     :octocat: https://github.com/javiirruizz   
  * :bust_in_silhouette:  Daniel Ortega Moreno     :octocat: 
 
->>> Los equipos son de 2 personas. Identifícaros con el nombre del Grupo y los enlaces a los perfiles de GitHub de cada integrante
 
 ----- 
 
