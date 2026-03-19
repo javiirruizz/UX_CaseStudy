@@ -14,12 +14,6 @@ Actualizado: 14/01/2026
 
 
 ## Paso 0 My UX-Case Study
-![Método UX](img/caseStudy.png) 
------
-
-
->>> Hay que Publicar de forma incremental "my Case Study" en Github... Es el momento de dejar este documento para que sea evaluado y calificado como parte de la práctica
->>> Documente bien la cabecera y asegurese que ha resumido los pasos realizados para el diseño de su producto
 
 Grupo: DIUAK_A2.  Curso: 2025/26 
 
@@ -27,13 +21,12 @@ Nombre del Proyecto: Los pajaritos
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
 
 Logotipo:
 
 Miembros y nombre del equipo:
  * :bust_in_silhouette:  Javier Ruiz Ramírez     :octocat: https://github.com/javiirruizz   
- * :bust_in_silhouette:  Daniel Ortega Moreno     :octocat: 
+ * :bust_in_silhouette:  Daniel Ortega Moreno     :octocat: https://github.com/dortmor
 
 
 ----- 
