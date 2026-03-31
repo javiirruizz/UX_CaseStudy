@@ -104,23 +104,21 @@ Puntos Débiles: A pesar de la excelente puntuación técnica, la evaluación cu
 
 ## Paso 2. UX Design  
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
+Programa de cafeterias
 
 ### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
-![Método UX](img/feedback-capture-grid.png) 
-----
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior. De qué carece la competencia?? Tu diagrama puede ser una figura subida a la carpeta P2/
+**Empathy Map**
+<img width="609" height="546" alt="imagen" src="https://github.com/user-attachments/assets/f5609723-f70d-4048-8a8e-e930b44c11f4" />
+Enlaces a los recursos:
+-
+-
 
+POV/INSIGHT
 
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
-    
->>> Explica el Problema y plantea una hipótesis. Es decir, explica aquí qué 
->>> se plantea como "propuesta de valor" para un nuevo diseño de aplicación propio
-
+<img width="611" height="312" alt="imagen" src="https://github.com/user-attachments/assets/8de335d2-5b26-46bb-9d30-9cb3b2c2ca12" />
+<img width="611" height="357" alt="imagen" src="https://github.com/user-attachments/assets/f25c3112-b1f7-44ea-b779-8de0740334b6" />
+<img width="611" height="357" alt="imagen" src="https://github.com/user-attachments/assets/9d2c29da-fdf2-4ba0-aae5-db50d7a9d40c" />
 
 ### 2.b ScopeCanvas
 ![Método UX](img/ScopeCanvas.png)
