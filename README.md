@@ -121,12 +121,11 @@ POV/INSIGHT
 <img width="611" height="357" alt="imagen" src="https://github.com/user-attachments/assets/9d2c29da-fdf2-4ba0-aae5-db50d7a9d40c" />
 
 ### 2.b ScopeCanvas
-![Método UX](img/ScopeCanvas.png)
-----
 
->>> Propuesta de valor, pero ahora en vez de un texto es un ScopeCanvas que has subido a P2/ y enlazado desde aqui. Tambien vale una imagen miniatura del recurso.
->>> No olvides que tu propuesta ya tiene un nombre corto y puedes actualizar la cabecera de este archivo
+Propuesta de valor: Programa de mejoras
+[Scope Canvas (Community)-1.pdf](https://github.com/user-attachments/files/26405086/Scope.Canvas.Community.-1.pdf)
 
+-Enlace a los recursos:
 
 
 ### 2.b User Flow (task) analysis 
