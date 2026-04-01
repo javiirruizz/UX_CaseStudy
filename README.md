@@ -123,10 +123,10 @@ POV/INSIGHT
 ### 2.b ScopeCanvas
 
 Propuesta de valor: Programa de mejoras
-[Scope Canvas (Community)-1.pdf](https://github.com/user-attachments/files/26405086/Scope.Canvas.Community.-1.pdf)
+<img width="1650" height="933" alt="ScoopeCanvas" src="https://github.com/user-attachments/assets/74b100a2-805a-4027-b0cc-11f67c5cd07d" />
 
 -Enlace a los recursos:
-
+[Scope Canvas (Community)-1.pdf](https://github.com/user-attachments/files/26405086/Scope.Canvas.Community.-1.pdf)
 
 ### 2.b User Flow (task) analysis 
 ![Método UX](img/Sitemap.png) 
