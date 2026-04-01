@@ -129,7 +129,7 @@ Propuesta de valor: Programa de mejoras
 <img width="1050" height="588" alt="imagen" src="https://github.com/user-attachments/assets/a62f429d-30b8-4282-89ad-67ed6c7eeaf8" />
 
 -Enlace a los recursos:
-[Imagen pegada.pdf](https://github.com/user-attachments/files/26415580/Imagen.pegada.pdf)
+[Scoope_Canva.pdf](https://github.com/user-attachments/files/26415619/Scoope_Canva.pdf)
 
 ### 2.b User Flow (task) analysis 
 
