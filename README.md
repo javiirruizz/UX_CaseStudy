@@ -126,10 +126,10 @@ POV/INSIGHT
 
 Propuesta de valor: Programa de mejoras
 
-<img width="1650" height="933" alt="ScoopeCanvas" src="https://github.com/user-attachments/assets/74b100a2-805a-4027-b0cc-11f67c5cd07d" />
+<img width="1050" height="588" alt="imagen" src="https://github.com/user-attachments/assets/a62f429d-30b8-4282-89ad-67ed6c7eeaf8" />
 
 -Enlace a los recursos:
-[Scope Canvas (Community)-1.pdf](https://github.com/user-attachments/files/26405086/Scope.Canvas.Community.-1.pdf)
+[Imagen pegada.pdf](https://github.com/user-attachments/files/26415580/Imagen.pegada.pdf)
 
 ### 2.b User Flow (task) analysis 
 
