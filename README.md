@@ -112,8 +112,9 @@ Programa de cafeterias
 
 
 <img width="609" height="546" alt="imagen" src="https://github.com/user-attachments/assets/f5609723-f70d-4048-8a8e-e930b44c11f4" />
+
 Enlaces a los recursos:
--
+
 
 POV/INSIGHT
 
