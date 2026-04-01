@@ -109,9 +109,10 @@ Programa de cafeterias
 ### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
 
 **Empathy Map**
+
+
 <img width="609" height="546" alt="imagen" src="https://github.com/user-attachments/assets/f5609723-f70d-4048-8a8e-e930b44c11f4" />
 Enlaces a los recursos:
--
 -
 
 POV/INSIGHT
@@ -123,13 +124,14 @@ POV/INSIGHT
 ### 2.b ScopeCanvas
 
 Propuesta de valor: Programa de mejoras
+
 <img width="1650" height="933" alt="ScoopeCanvas" src="https://github.com/user-attachments/assets/74b100a2-805a-4027-b0cc-11f67c5cd07d" />
 
 -Enlace a los recursos:
 [Scope Canvas (Community)-1.pdf](https://github.com/user-attachments/files/26405086/Scope.Canvas.Community.-1.pdf)
 
 ### 2.b User Flow (task) analysis 
-![Método UX](img/Sitemap.png) 
+
 -----
 Las tareas mas importantes de la funcionalidad queda definida en la siguiente tabla de permisos de usuario. 
 Estas tareas son acceder al propio menu , solicitar un pedido por la web, gestionar las recompensas, puesto que la funcionalidad añadida incluye un "click & collect" y un programa de fidelizacion digital para clientes habituales donde te permita pedir tu cafe o registrar tickets para obtener puntos.
