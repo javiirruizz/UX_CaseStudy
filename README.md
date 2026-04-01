@@ -131,8 +131,10 @@ Propuesta de valor: Programa de mejoras
 ### 2.b User Flow (task) analysis 
 ![Método UX](img/Sitemap.png) 
 -----
+Las tareas mas importantes de la funcionalidad queda definida en la siguiente tabla de permisos de usuario. 
+Estas tareas son acceder al propio menu , solicitar un pedido por la web, gestionar las recompensas, puesto que la funcionalidad añadida incluye un "click & collect" y un programa de fidelizacion digital para clientes habituales donde te permita pedir tu cafe o registrar tickets para obtener puntos.
 
->>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
+<img width="484" height="518" alt="imagen" src="https://github.com/user-attachments/assets/ec96c10e-61f7-4d8e-b99a-477ceb3962b6" />
 
 
 ### 2.c IA: Sitemap + Labelling 
