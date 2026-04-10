@@ -117,7 +117,7 @@ Enlaces a los recursos:
 [Empathy Customer Map [DIU26].pdf](https://github.com/user-attachments/files/26627199/Empathy.Customer.Map.DIU26.pdf)
 
 
-POV/INSIGHT
+**POV/INSIGHT**
 
 <img width="611" height="312" alt="imagen" src="https://github.com/user-attachments/assets/8de335d2-5b26-46bb-9d30-9cb3b2c2ca12" />
 <img width="611" height="357" alt="imagen" src="https://github.com/user-attachments/assets/f25c3112-b1f7-44ea-b779-8de0740334b6" />
@@ -135,7 +135,7 @@ Propuesta de valor: Programa de mejoras
 -Enlace a los recursos:
 [Scoope_Canva.pdf](https://github.com/user-attachments/files/26415619/Scoope_Canva.pdf)
 
-### 2.b User Flow (task) analysis [Empathy Customer Map [DIU26].pdf](https://github.com/user-attachments/files/26627195/Empathy.Customer.Map.DIU26.pdf)
+### 2.b User Flow (task) analysis
 
 
 Las tareas mas importantes de la funcionalidad queda definida en la siguiente tabla de permisos de usuario. 
