@@ -23,6 +23,7 @@ Descripción: El proyecto consiste en el análisis y rediseño de la experiencia
 
 
 Logotipo:
+
 <img width="256" height="140" alt="image" src="https://github.com/user-attachments/assets/203f89f3-8dd3-47a7-b566-d2c2b9b27f03" />
 
 
