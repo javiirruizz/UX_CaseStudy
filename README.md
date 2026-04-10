@@ -19,7 +19,7 @@ Grupo: DIUAK_A2.  Curso: 2025/26
 
 Nombre del Proyecto: Los pajaritos
 
-Descripción: 
+Descripción: El proyecto consiste en el análisis y rediseño de la experiencia de usuario (UX) de la plataforma web de la cafetería de especialidad y espacio de trabajo Epicureum. El objetivo principal es transformar la interfaz actual en una herramienta más intuitiva, inclusiva y transparente, solucionando la falta de información crítica sobre accesibilidad física y el ambiente del local (nivel de ruido, aforo, adaptación para estudiar o trabajar). Además, el rediseño propone la integración de nuevas funcionalidades de gran valor para el negocio: un sistema de pedido rápido (click & collect) y un programa de fidelización digital basado en recompensas, orientados a mejorar la captación y retención de clientes habituales, como estudiantes y teletrabajadores
 
 
 Logotipo:
@@ -114,6 +114,7 @@ Programa de cafeterias
 <img width="609" height="546" alt="imagen" src="https://github.com/user-attachments/assets/f5609723-f70d-4048-8a8e-e930b44c11f4" />
 
 Enlaces a los recursos:
+[Empathy Customer Map [DIU26].pdf](https://github.com/user-attachments/files/26627199/Empathy.Customer.Map.DIU26.pdf)
 
 
 POV/INSIGHT
@@ -121,6 +122,9 @@ POV/INSIGHT
 <img width="611" height="312" alt="imagen" src="https://github.com/user-attachments/assets/8de335d2-5b26-46bb-9d30-9cb3b2c2ca12" />
 <img width="611" height="357" alt="imagen" src="https://github.com/user-attachments/assets/f25c3112-b1f7-44ea-b779-8de0740334b6" />
 <img width="611" height="357" alt="imagen" src="https://github.com/user-attachments/assets/9d2c29da-fdf2-4ba0-aae5-db50d7a9d40c" />
+
+-Enlace a los recursos:
+[POV_Insight User flow.pdf](https://github.com/user-attachments/files/26627136/POV_Insight.User.flow.pdf)
 
 ### 2.b ScopeCanvas
 
@@ -131,13 +135,16 @@ Propuesta de valor: Programa de mejoras
 -Enlace a los recursos:
 [Scoope_Canva.pdf](https://github.com/user-attachments/files/26415619/Scoope_Canva.pdf)
 
-### 2.b User Flow (task) analysis 
+### 2.b User Flow (task) analysis [Empathy Customer Map [DIU26].pdf](https://github.com/user-attachments/files/26627195/Empathy.Customer.Map.DIU26.pdf)
 
------
+
 Las tareas mas importantes de la funcionalidad queda definida en la siguiente tabla de permisos de usuario. 
 Estas tareas son acceder al propio menu , solicitar un pedido por la web, gestionar las recompensas, puesto que la funcionalidad añadida incluye un "click & collect" y un programa de fidelizacion digital para clientes habituales donde te permita pedir tu cafe o registrar tickets para obtener puntos.
 
 <img width="484" height="518" alt="imagen" src="https://github.com/user-attachments/assets/ec96c10e-61f7-4d8e-b99a-477ceb3962b6" />
+
+-Enlace a los recursos:
+[POV_Insight User flow.pdf](https://github.com/user-attachments/files/26627149/POV_Insight.User.flow.pdf)
 
 
 ### 2.c IA: Sitemap + Labelling 
