@@ -148,14 +148,30 @@ Estas tareas son acceder al propio menu , solicitar un pedido por la web, gestio
 
 
 ### 2.c IA: Sitemap + Labelling 
-![Método UX](img/labelling.png) 
+ <img width="802" height="311" alt="Sitemap" src="https://github.com/user-attachments/assets/7376c32c-8c0a-4b4d-a46f-c00aa2f0d2e7" />
 ----
-
->>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app). 
 
 Término | Significado     
 | ------------- | -------
-  Login  | acceder a plataforma
+  Inicio  | Página principal de aterrizaje con acceso a la propuesta de valor y acciones rápidas.
+  La Carta | Catálogo completo de consumiciones disponibles en la cafetería.
+  Café / Bebidas / Comida | Subcategorías de la carta para filtrar los productos según su tipo.
+  Pedir y Recoger | Sistema de pedido rápido online para recoger en local.
+  Cesta | Resumen temporal de los productos seleccionados antes de confirmar el pago.
+  Pago | Pasarela segura para completar la transacción del pedido online.
+  El Local | Sección informativa sobre el espacio físico, ubicación, filosofía y horarios.
+  Ubicación | Dirección física del local, mapa interactivo y horarios de apertura.
+  Accesibilidad | Detalles y fotos sobre adaptaciones físicas (rampas, baños adaptados, altura de mesas).
+  Ambiente | Indicadores sobre el nivel de ruido, aforo actual y adecuación para estudiar o trabajar.
+  Club Pajaritos | Programa de fidelización digital para clientes habituales.
+  Mis Puntos | Contador actual de los puntos acumulados por el usuario mediante sus compras.
+  Recompensas | Sección donde los usuarios pueden ver y canjear sus puntos por productos gratuitos.
+  Mi Perfil | Área privada para gestionar datos, historial de pedidos y métodos de pago.
+  Registro | Formularios para acceder a la plataforma o crear una nueva cuenta de usuario.
+  Ajustes | Configuración de la cuenta, notificaciones y preferencias personales del usuario.
+  Contacto | Vías de comunicación directa con la cafetería (email, teléfono, redes sociales).
+  Tienda | Acceso a la compra de productos físicos (paquetes de café, merchandising) para llevar.
+  
 
 
 ### 2.d Wireframes
