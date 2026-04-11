@@ -178,10 +178,10 @@ Término | Significado
 
 
 ### 2.d Wireframes
-![Método UX](img/Wireframes.png) 
+<img width="1341" height="764" alt="wireframe" src="https://github.com/user-attachments/assets/056c4d30-d27a-4ee6-b462-d6e3c4305356" />
+ 
 -----
-
->>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada 
+Este es el diseño definitivo elegido para las páginas principales. Para su desarrollo, se han empleado las herramientas Stitch y Figma.
 
 <br>
 
