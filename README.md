@@ -172,9 +172,6 @@ Término | Significado
   Mi Perfil | Área privada para gestionar datos, historial de pedidos y métodos de pago.
   Registro | Formularios para acceder a la plataforma o crear una nueva cuenta de usuario.
   Ajustes | Configuración de la cuenta, notificaciones y preferencias personales del usuario.
-  Contacto | Vías de comunicación directa con la cafetería (email, teléfono, redes sociales).
-  Tienda | Acceso a la compra de productos físicos (paquetes de café, merchandising) para llevar.
-  
 
 
 ### 2.d Wireframes
