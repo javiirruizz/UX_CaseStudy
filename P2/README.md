@@ -18,11 +18,12 @@
 
 ### ARQUITECTURA DE INFORMACIÓN
 
-* Sitemap 
+* Sitemap https://github.com/javiirruizz/UX_CaseStudy/blob/master/P2/Sitemap.png
 * Labelling 
 
 
 ### Prototipo Lo-FI Wireframe 
+https://github.com/javiirruizz/UX_CaseStudy/blob/master/P2/wireframes.png
 
 
 ### Conclusiones  
