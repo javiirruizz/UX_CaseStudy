@@ -175,8 +175,8 @@ Término | Significado
 
 
 ### 2.d Wireframes
-<img width="1341" height="764" alt="wireframe" src="https://github.com/user-attachments/assets/056c4d30-d27a-4ee6-b462-d6e3c4305356" />
- 
+<img width="1310" height="764" alt="wireframes" src="https://github.com/user-attachments/assets/60f60585-53cd-4307-b611-949a33944394" />
+
 -----
 Este es el diseño definitivo elegido para las páginas principales. Para su desarrollo, se han empleado las herramientas Stitch y Figma.
 
