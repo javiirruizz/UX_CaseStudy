@@ -152,7 +152,8 @@ Estas tareas son acceder al propio menu , solicitar un pedido por la web, gestio
 
 ### 2.c IA: Sitemap + Labelling 
  <img width="802" height="311" alt="Sitemap" src="https://github.com/user-attachments/assets/7376c32c-8c0a-4b4d-a46f-c00aa2f0d2e7" />
-----
+
+
 
 Término | Significado     
 | ------------- | -------
