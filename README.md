@@ -185,12 +185,10 @@ Este es el diseño definitivo elegido para las páginas principales. Para su des
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
-<img width="1480" height="988" alt="imagen" src="https://github.com/user-attachments/assets/6ef4ed03-b941-4303-8f13-3d040a6218a9" />
-
-
 ### 3.a Moodboard
 
 <img width="1480" height="988" alt="imagen" src="https://github.com/user-attachments/assets/6ef4ed03-b941-4303-8f13-3d040a6218a9" />
+
 
 <img width="256" height="140" alt="image" src="https://github.com/user-attachments/assets/203f89f3-8dd3-47a7-b566-d2c2b9b27f03" />
 
