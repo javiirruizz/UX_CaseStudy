@@ -194,8 +194,6 @@ Este es el diseño definitivo elegido para las páginas principales. Para su des
 <img width="256" height="140" alt="image" src="https://github.com/user-attachments/assets/203f89f3-8dd3-47a7-b566-d2c2b9b27f03" />
 
 ### 3.b Landing Page
-<img width="567" height="1024" alt="LandingPage" src="https://github.com/user-attachments/assets/12500e1c-f54d-42e7-a22e-ef6ff4056efc" />
-
 ----
 
 
