@@ -194,18 +194,20 @@ Este es el diseño definitivo elegido para las páginas principales. Para su des
 <img width="256" height="140" alt="image" src="https://github.com/user-attachments/assets/203f89f3-8dd3-47a7-b566-d2c2b9b27f03" />
 
 ### 3.b Landing Page
-![Método UX](img/landing-page.png) 
+<img width="567" height="1024" alt="LandingPage" src="https://github.com/user-attachments/assets/12500e1c-f54d-42e7-a22e-ef6ff4056efc" />
+
 ----
 
->>> Plantear el Landing Page del producto. Aplica estilos definidos en el moodboard
 
 
 ### 3.c Guidelines
-![Método UX](img/guidelines.png) 
+<img width="6530" height="2751" alt="Guidelines" src="https://github.com/user-attachments/assets/92472ce7-77d9-439c-af05-28ddcac9c091" />
+ 
 ----
 
->>> Estudio de Guidelines y explicación de los Patrones IU a usar 
->>> Es decir, tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+Para el desarrollo de la plataforma de "Los Pajaritos", se ha optado por una estructura de navegación que prioriza la orientación constante del usuario. El uso de una barra de menú superior fija garantiza que las opciones principales, como el acceso a la carta o al el local estén siempre a un click de distancia, evitando que el usuario se pierda mientras navega por la página.Esta organización se complementa con un pie de página detallado donde se centraliza la información de contacto, y ubicación. 
+En cuanto a la presentación de la oferta gastronómica, se ha decidido utilizar un sistema de tarjetas visuales dispuestas en cuadrícula. Este diseño es fundamental para un negocio de hostelería, ya que permite destacar la fotografía del producto junto a su precio.Además, para captar la atención desde el primer segundo, la página de inicio presenta una sección de bienvenida impactante con imágenes del local y botones directos que invitan a la acción, ya sea para realizar un pedido o conocer el espacio.El proceso de compra y gestión de pedidos se ha diseñado para ser lo más intuitivo y fluido posible. Se ha integrado un resumen de compra dinámico que permite al cliente ver lo que ha seleccionado y el precio total sin tener que abandonar la página en la que se encuentra. También añadimos tanto en la página de inicio y en la página donde se presenta el local de manera detallada hay información sobre el estado actual del local ya que es una cafeteria orientada a un tipo de cliente con unos requisitos especiales.
+Finalmente, para fomentar la comunidad en torno al "Club Pajaritos", se han incluido elementos visuales que premian la interacción del cliente. A través de una barra de progreso visual, el usuario puede entender de inmediato cuántos puntos tiene y qué tan cerca está de obtener un benefici.
 
 
 ### 3.d Mockup
