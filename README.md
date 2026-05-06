@@ -212,7 +212,7 @@ Finalmente, para fomentar la comunidad en torno al "Club Pajaritos", se han incl
 ![Método UX](img/mockup.png) 
 ----
 
->>> Consiste en tener un Layout en acción. Un Mockup es un prototipo HTML que permite simular tareas con estilo de IU seleccionado. Muy útil para compartir con stakeholders
+https://hasty-shout-70375366.figma.site
 
 
 <br>
