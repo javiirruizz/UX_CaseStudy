@@ -214,8 +214,7 @@ Finalmente, para fomentar la comunidad en torno al "Club Pajaritos", se han incl
 
 https://hasty-shout-70375366.figma.site
 
-
-<br>
+Al pasar el modelo a Web se ha mejorado el diseño de los guidelines para estilizarlo y modernizarlo
 
 ## Paso 4. Pruebas de Evaluación 
 
