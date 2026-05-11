@@ -212,9 +212,7 @@ Finalmente, para fomentar la comunidad en torno al "Club Pajaritos", se han incl
 ![Método UX](img/mockup.png) 
 ----
 
-https://hasty-shout-70375366.figma.site
-
-Al pasar el modelo a Web se ha mejorado el diseño de los guidelines para estilizarlo y modernizarlo
+https://www.figma.com/design/47rnJBn5ntFzjEDtrpU3lU/Sin-t%C3%ADtulo?node-id=1-1011&t=JPvuOrU3YeAczbKA-0
 
 ## Paso 4. Pruebas de Evaluación 
 
