@@ -217,8 +217,7 @@ https://www.figma.com/design/47rnJBn5ntFzjEDtrpU3lU/Sin-t%C3%ADtulo?node-id=1-10
 ## Paso 4. Pruebas de Evaluación 
 
 ### 4.a Reclutamiento de usuarios 
-![Método UX](img/usability-testing.png)
------
+
 Nos ha tocado el grupo LosProyectados quyo estudio correspone al caso B y el nuestro con el caso A.
 
 Enlace a su repositorio: https://github.com/DIU3-LosProyectados/UX_CaseStudy/tree/master
