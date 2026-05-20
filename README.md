@@ -218,7 +218,7 @@ https://www.figma.com/design/47rnJBn5ntFzjEDtrpU3lU/Sin-t%C3%ADtulo?node-id=1-10
 
 ### 4.a Reclutamiento de usuarios 
 
-Nos ha tocado el grupo LosProyectados quyo estudio correspone al caso B y el nuestro con el caso A.
+Nos ha tocado el grupo LosProyectados cuyo estudio corresponde al caso B y el nuestro con el caso A.
 
 Enlace a su repositorio: https://github.com/DIU3-LosProyectados/UX_CaseStudy/tree/master
 
@@ -249,7 +249,37 @@ Describimos a continuacion las pruebas a realizar para la evaluacion de estos do
 ![Método UX](img/Survey.png) 
 ----
 
+### 4.c Cuestionario SUS (Resultados por Ítem)
+
+Aquí se recogen las puntuaciones del test de usabilidad SUS tras el uso de cada prototipo (Caso A: Goiko / Caso B: Los Pajaritos), lo que permite valorar la percepción general de usabilidad por parte de los usuarios.
+
+| # | Ítem SUS | Oliver | María | Gael | Encarnación |
+| :-: | :--- | :-: | :-: | :-: | :-: |
+| **1** | Creo que me gustará visitar con frecuencia este website | 5 | 4 | 4 | 3 |
+| **2** | Encontré el website innecesariamente complejo | 2 | 1 | 2 | 2 |
+| **3** | Pensé que era fácil utilizar este website | 3 | 4 | 4 | 4 |
+| **4** | Creo que necesitaría del apoyo de un experto para recorrer el website | 3 | 2 | 1 | 4 |
+| **5** | Encontré las funciones del website bastante bien integradas | 4 | 5 | 4 | 3 |
+| **6** | Pensé que había demasiada inconsistencia en el website | 2 | 1 | 2 | 3 |
+| **7** | Imagino que la mayoría de las personas aprenderían muy rápidamente a utilizar el website | 4 | 5 | 4 | 4 |
+| **8** | Encontré el website muy grande al recorrerlo | 2 | 2 | 3 | 3 |
+| **9** | Me sentí muy confiado en el manejo del website | 4 | 4 | 4 | 3 |
+| **10** | Necesito aprender muchas cosas antes de manejarme en el website | 2 | 2 | 1 | 3 |
+
 >>> Como uno de los test para la prueba A/B testing, usaremos el **Cuestionario SUS** que permite valorar la satisfacción de cada usuario con el diseño utilizado (casos A o B). Para calcular la valoración numérica y la etiqueta linguistica resultante usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx). Previamente conozca en qué consiste la escala SUS y cómo se interpretan sus resultados
+>
+### Resultados Finales SUS
+
+| Usuario | Caso | SUS | Escala lingüística |
+| :--- | :-: | :-: | :--- |
+| Oliver | A | **72.5** | Bueno |
+| María | A | **85.0** | Excelente |
+| Gael | B | **77.5** | Bueno |
+| Encarnación | B | **55.0** | Marginal |
+| **Media** | **A / B** | **78.7 / 66.2** | — |
+
+**Conclusión del estudio:** Así que **Goiko (Caso A)** obtiene **+12.5 puntos** de media respecto a **Los Pajaritos (Caso B)**, situándose en una sólida franja de "Bueno/Excelente". Los resultados muestran cómo el Caso A es accesible incluso para usuarios con *Exp. TIC Baja* (Oliver saca un 72.5), mientras que el Caso B presenta una barrera de entrada importante para usuarios de ese mismo perfil (Encarnación saca un 55.0), a pesar de resultar muy amigable para expertos tecnológicos (Gael saca un 77.5).
+
 http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
 Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
 >>> Adjuntar en la carpeta P4/ el excel resultante y describa aquí la valoración personal de los resultados 
