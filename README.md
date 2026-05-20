@@ -219,27 +219,31 @@ https://www.figma.com/design/47rnJBn5ntFzjEDtrpU3lU/Sin-t%C3%ADtulo?node-id=1-10
 ### 4.a Reclutamiento de usuarios 
 ![Método UX](img/usability-testing.png)
 -----
-
->>> Breve descripción del caso asignado (llamado Caso-B) con enlace al repositorio Github
->>> Tabla y asignación de personas ficticias (o reales) a las pruebas. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Mínimo 4 usuarios: asigne 2 al Caso A y 2 al caso B.
-
-
+Nos ha tocado el grupo LosProyectados quyo estudio correspone al caso B y el nuestro con el caso A.
+Enlace a su repositorio: https://github.com/DIU3-LosProyectados/UX_CaseStudy/tree/master
+En esta tabla asignamos las personas/usuarios que partciparán en las pruebas, incluyendo un perfil con valores mas o menos diferentes para una aproximación mas exacta
+tambien incluimos el caso concreto que valoraron.
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| Alejandro  | H / 20   | Estudiante Informatica | Alta       | Introvertido | Web.       | A 
+| Miguel  | H / 27   | Estudiante doctorado  | Media       | Racional       | Web        | A 
+| David  | M / 52   | Repartidor    | Baja        | Curioso    | Web      | B 
+| Adrian  | H / 20   | Opositor  | Media       | Extrovertido     | Web        | B 
 
 
 ### 4.b Diseño de las pruebas 
 ![Método UX](img/usability-testing.png) 
------
 
->>> Planifique qué pruebas se van a desarrollar. ¿En qué consisten? ¿Se hará uso del checklist de la P1?
-
-
+Describimos a continuacion las pruebas a realizar para la evaluacion de estos dos prototipos, adaptados para los dos casos, indicando de forma clara los objetivos y las formas de medida
+| # | Tipo de prueba (Maze) | Caso A – Goiko (Hamburguesería) | Caso B – Los Pajaritos (Cafetería) | Métrica principal |
+| :-: | :--- | :--- | :--- | :--- |
+| **1** | **Mis-click Test** | Pulsar CTA «Añadir al carrito» (Icono + en la carta) | Pulsar CTA «Ver La Carta» en la hero section | % primer clic correcto |
+| **2** | **Tarea guiada** | Localizar el restaurante más cercano usando el mapa interactivo | Iniciar sesión y consultar los puntos acumulados del programa de fidelidad | Tiempo (s) + nº clics |
+| **3** | **Tarea guiada** | Iniciar sesión desde la sección "MyGoiko" para ver ofertas | Realizar un pedido rápido para "Recoger en local" (ej. un Cappuccino) | Tiempo (s) + % éxito |
+| **4** | **Tarea guiada** | Revisar la galería de imágenes (interacción con carrusel) | Consultar los horarios y la disponibilidad de enchufes/espacio de trabajo | % éxito |
+| **5** | **Cuestionario SUS** | *Evaluación de usabilidad percibida (ambos casos)* | *Evaluación de usabilidad percibida (ambos casos)* | Puntuación 0-100 |
+| **6** | **Eye-tracking** | Varias pantallas (Foco en: Carta, Mapa, MyGoiko) | Varias pantallas (Foco en: Pedido Rápido, Carta, Fidelidad) | TTFF + % AOI |
 
 ### 4.c Cuestionario SUS
 ![Método UX](img/Survey.png) 
