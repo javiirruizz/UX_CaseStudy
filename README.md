@@ -220,7 +220,9 @@ https://www.figma.com/design/47rnJBn5ntFzjEDtrpU3lU/Sin-t%C3%ADtulo?node-id=1-10
 ![Método UX](img/usability-testing.png)
 -----
 Nos ha tocado el grupo LosProyectados quyo estudio correspone al caso B y el nuestro con el caso A.
+
 Enlace a su repositorio: https://github.com/DIU3-LosProyectados/UX_CaseStudy/tree/master
+
 En esta tabla asignamos las personas/usuarios que partciparán en las pruebas, incluyendo un perfil con valores mas o menos diferentes para una aproximación mas exacta
 tambien incluimos el caso concreto que valoraron.
 
@@ -233,17 +235,16 @@ tambien incluimos el caso concreto que valoraron.
 
 
 ### 4.b Diseño de las pruebas 
-![Método UX](img/usability-testing.png) 
 
 Describimos a continuacion las pruebas a realizar para la evaluacion de estos dos prototipos, adaptados para los dos casos, indicando de forma clara los objetivos y las formas de medida
 | # | Tipo de prueba (Maze) | Caso A – Goiko (Hamburguesería) | Caso B – Los Pajaritos (Cafetería) | Métrica principal |
 | :-: | :--- | :--- | :--- | :--- |
-| **1** | **Mis-click Test** | Pulsar CTA «Añadir al carrito» (Icono + en la carta) | Pulsar CTA «Ver La Carta» en la hero section | % primer clic correcto |
+| **1** | **Mis-click Test** | Pulsar Opcion «Añadir al carrito» (Icono "+" en la carta) | Pulsar Opcion «Ver La Carta» en la seccion de inicio | % primer clic correcto |
 | **2** | **Tarea guiada** | Localizar el restaurante más cercano usando el mapa interactivo | Iniciar sesión y consultar los puntos acumulados del programa de fidelidad | Tiempo (s) + nº clics |
 | **3** | **Tarea guiada** | Iniciar sesión desde la sección "MyGoiko" para ver ofertas | Realizar un pedido rápido para "Recoger en local" (ej. un Cappuccino) | Tiempo (s) + % éxito |
-| **4** | **Tarea guiada** | Revisar la galería de imágenes (interacción con carrusel) | Consultar los horarios y la disponibilidad de enchufes/espacio de trabajo | % éxito |
+| **4** | **Tarea guiada** | Revisar la galería de imágenes (interacción) | Consultar los horarios y servicios en el local | % éxito |
 | **5** | **Cuestionario SUS** | *Evaluación de usabilidad percibida (ambos casos)* | *Evaluación de usabilidad percibida (ambos casos)* | Puntuación 0-100 |
-| **6** | **Eye-tracking** | Varias pantallas (Foco en: Carta, Mapa, MyGoiko) | Varias pantallas (Foco en: Pedido Rápido, Carta, Fidelidad) | TTFF + % AOI |
+| **6** | **Eye-tracking** | Varias pantallas (Foco en: Inicio, Hacer pedido) | Varias pantallas (Foco en: Inicio, Pedido Rápido) | TTFF + % AOI |
 
 ### 4.c Cuestionario SUS
 ![Método UX](img/Survey.png) 
