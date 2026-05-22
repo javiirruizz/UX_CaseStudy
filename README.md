@@ -230,30 +230,26 @@ tambien incluimos el caso concreto que valoraron.
 | Alejandro  | H / 20   | Estudiante Informatica | Alta       | Introvertido | Web.       | A 
 | Miguel  | H / 27   | Estudiante doctorado  | Media       | Racional       | Web        | A 
 | David  | M / 52   | Repartidor    | Baja        | Curioso    | Web      | B 
-| Adrian  | H / 20   | Opositor  | Media       | Extrovertido     | Web        | B 
+| Adrian  | H / 20   | Opositor  | Media-Baja       | Extrovertido     | Web        | B 
 
 
 ### 4.b Diseño de las pruebas 
 
 Describimos a continuacion las pruebas a realizar para la evaluacion de estos dos prototipos, adaptados para los dos casos, indicando de forma clara los objetivos y las formas de medida
-| # | Tipo de prueba (Maze) | Caso A – Goiko (Hamburguesería) | Caso B – Los Pajaritos (Cafetería) | Métrica principal |
+| # | Tipo de prueba (Maze) | Caso B – Goiko (Hamburguesería) | Caso A – Los Pajaritos (Cafetería) | Métrica principal |
 | :-: | :--- | :--- | :--- | :--- |
 | **1** | **Mis-click Test** | Pulsar Opcion «Añadir al carrito» (Icono "+" en la carta) | Pulsar Opcion «Ver La Carta» en la seccion de inicio | % primer clic correcto |
-| **2** | **Tarea guiada** | Localizar el restaurante más cercano usando el mapa interactivo | Iniciar sesión y consultar los puntos acumulados del programa de fidelidad | Tiempo (s) + nº clics |
+| **2** | **Tarea guiada** | Localizar el restaurante más cercano usando el mapa interactivo | Abrir perfil y consultar los puntos acumulados del programa de fidelidad | Tiempo (s) + nº clics |
 | **3** | **Tarea guiada** | Iniciar sesión desde la sección "MyGoiko" para ver ofertas | Realizar un pedido rápido para "Recoger en local" (ej. un Cappuccino) | Tiempo (s) + % éxito |
 | **4** | **Tarea guiada** | Revisar la galería de imágenes (interacción) | Consultar los horarios y servicios en el local | % éxito |
 | **5** | **Cuestionario SUS** | *Evaluación de usabilidad percibida (ambos casos)* | *Evaluación de usabilidad percibida (ambos casos)* | Puntuación 0-100 |
-| **6** | **Eye-tracking** | Varias pantallas (Foco en: Inicio, Hacer pedido) | Varias pantallas (Foco en: Inicio, Pedido Rápido) | TTFF + % AOI |
+| **6** | **Eye-tracking** | Varias Pruebas, distintos usuarios | Varias Pruebas, distintos usuarios | TTFF + % AOI |
 
 ### 4.c Cuestionario SUS
-![Método UX](img/Survey.png) 
-----
 
-### 4.c Cuestionario SUS (Resultados por Ítem)
+Aquí se recogen las puntuaciones del test de usabilidad SUS tras el uso de cada prototipo (Caso B: Goiko / Caso A: Los Pajaritos), lo que permite valorar la percepción general de usabilidad por parte de los usuarios. Sigue la estructura cuestionario SUS (impares negativos, pares positivos, le aplicamos los calculos correspondientes)
 
-Aquí se recogen las puntuaciones del test de usabilidad SUS tras el uso de cada prototipo (Caso A: Goiko / Caso B: Los Pajaritos), lo que permite valorar la percepción general de usabilidad por parte de los usuarios.
-
-| # | Ítem SUS | Oliver | María | Gael | Encarnación |
+| # | Ítem SUS | Alejandro | Miguel | Adrian | David |
 | :-: | :--- | :-: | :-: | :-: | :-: |
 | **1** | Creo que me gustará visitar con frecuencia este website | 5 | 4 | 4 | 3 |
 | **2** | Encontré el website innecesariamente complejo | 2 | 1 | 2 | 2 |
@@ -266,24 +262,19 @@ Aquí se recogen las puntuaciones del test de usabilidad SUS tras el uso de cada
 | **9** | Me sentí muy confiado en el manejo del website | 4 | 4 | 4 | 3 |
 | **10** | Necesito aprender muchas cosas antes de manejarme en el website | 2 | 2 | 1 | 3 |
 
->>> Como uno de los test para la prueba A/B testing, usaremos el **Cuestionario SUS** que permite valorar la satisfacción de cada usuario con el diseño utilizado (casos A o B). Para calcular la valoración numérica y la etiqueta linguistica resultante usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx). Previamente conozca en qué consiste la escala SUS y cómo se interpretan sus resultados
->
+Como uno de los test para la prueba A/B testing, usaremos el **Cuestionario SUS** que permite valorar la satisfacción de cada usuario con el diseño utilizado (casos A o B). Para calcular la valoración numérica y la etiqueta linguistica resultante.
+
 ### Resultados Finales SUS
 
 | Usuario | Caso | SUS | Escala lingüística |
 | :--- | :-: | :-: | :--- |
-| Oliver | A | **72.5** | Bueno |
-| María | A | **85.0** | Excelente |
-| Gael | B | **77.5** | Bueno |
-| Encarnación | B | **55.0** | Marginal |
+| Alejandro | A | **72.5** | Bueno |
+| Miguel | A | **85.0** | Excelente |
+| Adrian | B | **77.5** | Bueno |
+| David | B | **55.0** | Marginal |
 | **Media** | **A / B** | **78.7 / 66.2** | — |
 
-**Conclusión del estudio:** Así que **Goiko (Caso A)** obtiene **+12.5 puntos** de media respecto a **Los Pajaritos (Caso B)**, situándose en una sólida franja de "Bueno/Excelente". Los resultados muestran cómo el Caso A es accesible incluso para usuarios con *Exp. TIC Baja* (Oliver saca un 72.5), mientras que el Caso B presenta una barrera de entrada importante para usuarios de ese mismo perfil (Encarnación saca un 55.0), a pesar de resultar muy amigable para expertos tecnológicos (Gael saca un 77.5).
-
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
->>> Adjuntar en la carpeta P4/ el excel resultante y describa aquí la valoración personal de los resultados 
-
+**Conclusión del estudio:** Tras los resultados de la encuesta, concluimos que **Los Pajaritos (Caso A)** obtiene **+12.5 puntos** de media respecto a **Goiko (Caso B)**, situándose en una sólida franja de "Bueno/Excelente". Los resultados muestran cómo el Caso A es accesible incluso para usuarios con no mucha expeeriendcia TIC (Adrian saca un 77.5), mientras que el Caso B presenta una barrera de entrada importante para usuarios de un perfil parecido de usabilidad (David saca un 55.0), a pesar de resultar muy amigable para usuarios con experiencia tecnológica (Alejandro saca un 72.5).
 
 ### 4.d A/B Testing
 ![Método UX](img/ABtesting.png) 
