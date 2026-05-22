@@ -262,7 +262,7 @@ Aquí se recogen las puntuaciones del test de usabilidad SUS tras el uso de cada
 | **9** | Me sentí muy confiado en el manejo del website | 4 | 4 | 4 | 3 |
 | **10** | Necesito aprender muchas cosas antes de manejarme en el website | 2 | 2 | 1 | 3 |
 
-Como uno de los test para la prueba A/B testing, usaremos el **Cuestionario SUS** que permite valorar la satisfacción de cada usuario con el diseño utilizado (casos A o B). Para calcular la valoración numérica y la etiqueta linguistica resultante.
+Como uno de los test para la prueba A/B testing, usaremos el **Cuestionario SUS** que permite valorar la satisfacción de cada usuario con el diseño utilizado (casos A o B).
 
 ### Resultados Finales SUS
 
@@ -274,7 +274,9 @@ Como uno de los test para la prueba A/B testing, usaremos el **Cuestionario SUS*
 | David | B | **55.0** | Marginal |
 | **Media** | **A / B** | **78.7 / 66.2** | — |
 
-**Conclusión del estudio:** Tras los resultados de la encuesta, concluimos que **Los Pajaritos (Caso A)** obtiene **+12.5 puntos** de media respecto a **Goiko (Caso B)**, situándose en una sólida franja de "Bueno/Excelente". Los resultados muestran cómo el Caso A es accesible incluso para usuarios con no mucha expeeriendcia TIC (Adrian saca un 77.5), mientras que el Caso B presenta una barrera de entrada importante para usuarios de un perfil parecido de usabilidad (David saca un 55.0), a pesar de resultar muy amigable para usuarios con experiencia tecnológica (Alejandro saca un 72.5).
+**Conclusión del estudio:** El prototipo 'Los Pajaritos' (Caso A) supera al 'Goiko' (Caso B) con una media de 78,7 frente a 66,2 puntos en el cuestionario SUS.
+
+Los resultados muestran que el Caso A es más consistente y accesible para distintos perfiles de usuario. Por el contrario, el Caso B presenta una mayor barrera de entrada para usuarios con una menor experiencia tecnológica (David, 55,0), mientras que usuarios algo más técnicos logran navegarlo correctamente (Adrián, 77,5). En definitiva, el Caso A demuestra ser más accesible a más parte de usuarios, mientras que el Caso B debería de cambiar su arquitectura para hacer más sencilla de usar para los usuarios menos experimentados.
 
 ### 4.d A/B Testing
 ![Método UX](img/ABtesting.png) 
@@ -283,8 +285,6 @@ Como uno de los test para la prueba A/B testing, usaremos el **Cuestionario SUS*
 >>> Los resultados de un A/B testing con 3 pruebas y 2 casos o alternativas daría como resultado una tabla de 3 filas y 2 columnas, además de un resultado agregado global. Especifique con claridad el resultado: qué caso es más usable, A o B?
 
 ### 4.e Aplicación del método Eye Tracking 
-![Método UX](img/eye-tracking.png)
-----
 
 >>> Indica cómo se diseña el experimento y se reclutan los usuarios. Explica la herramienta / uso de gazerecorder.com u otra similar. Aplíquese únicamente al caso B.
 
