@@ -284,16 +284,17 @@ Los resultados muestran que el Caso A es más consistente y accesible para disti
 
 >>> Los resultados de un A/B testing con 3 pruebas y 2 casos o alternativas daría como resultado una tabla de 3 filas y 2 columnas, además de un resultado agregado global. Especifique con claridad el resultado: qué caso es más usable, A o B?
 
-### 4.e Aplicación del método Eye Tracking 
+### 4.e Aplicación del método Eye Tracking
 
->>> Indica cómo se diseña el experimento y se reclutan los usuarios. Explica la herramienta / uso de gazerecorder.com u otra similar. Aplíquese únicamente al caso B.
+Para este estudio se recopilaron a dos personas conocidas, se les puso enfrente de la página y se les indico que navegasen tranquilamente por la página y que comentasen lo que veían mas importante, tambien se les indico que viesen que botones les resultaban mas utiles y pulsarian para obtener mas informacion. La tercera persona fue un miembro de nuestro grupo quien bajo un punto de vista critico y ya siendo conocedor de como se hace una web de este estilo tendria una vision mas acertada. Se uso una unica imagen del prototipado para estudiar la diferencia de los distintos usuarios.
 
+Nuestro estudio se basa en mapas de calor que recojen la atencion que presto el usuario con la mirada a los distintos elementos de la pagina para detectar que zonas son las mas llamativas y que captan mejor la atencion del usuario. Tras este estudio llegamos a la siguiente conclusion:
 
-![experimento](img/experimentoET.png)  
->>> Cambiar esta img por una de vuestro experimento. El recurso deberá estar subido a la carpeta P4/  
+Tras la interpretacion de los mapas de calor generados con la herramienta vista en teoria "GazeMapping", podemos concluir que se mira mucha la parte superior derecha, donde se situan las opciones de hacer pedido, reserva y cuenta del local, concluimos que todos los usuarios buscan acceder a su perfil o acceder a un buscador para encontrar con más velocidad lo que buscan. Por lo general el logo central de la pagina destaca bastante captando la atencion de los usuarios y haciendo que aumente su interes. La zona más visualizada es sin duda el mapa de locales, consiguiendo captar gran parte del tiempo del usuario en analizar el mapa y su proximidad con el, ya sea por interes o simple curiosidad para conoces si cuentan con un local cercano del lugar donde viven. Los textos entre el mapa y la galeria de fotos no tiene mucho exito, un usuario por lo general no suele pararse a leer textos largos, requeiren de algo conciso y llamativo. Por ultimo la zona de galería si consigue captar bastante la atencion por las fotos tan llamativas y buen aspecto de los productos que ofrecen.
 
->>> gazerecorder en versión de pruebas puede estar limitada a 3 usuarios para generar mapa de calor (crédito > 0 para que funcione) 
-
+<img width="572" height="1600" alt="Heatmap1" src="https://github.com/user-attachments/assets/f7d0e4d6-ea49-47d5-993f-428aa5aaef53" />
+<img width="555" height="1600" alt="Heatmap2" src="https://github.com/user-attachments/assets/0b55dbc1-fe4d-4dda-aecf-32eb52cf9ee6" />
+<img width="555" height="1600" alt="Heatmap3" src="https://github.com/user-attachments/assets/099dfa93-94e0-4d2b-b4d7-8f4097ff5f32" />
 
 ### 4.f Usability Report de B
 ![Método UX](img/usability-report.png) 
