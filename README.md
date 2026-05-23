@@ -282,7 +282,22 @@ Los resultados muestran que el Caso A es más consistente y accesible para disti
 ![Método UX](img/ABtesting.png) 
 -----
 
->>> Los resultados de un A/B testing con 3 pruebas y 2 casos o alternativas daría como resultado una tabla de 3 filas y 2 columnas, además de un resultado agregado global. Especifique con claridad el resultado: qué caso es más usable, A o B?
+Para realizar el A/B Testing hemos evaluado los dos casos utilizando las plantillas de Figma. Esto nos ha permitido realizar pruebas enfocadas en el primer clic, la jerarquía visual y la facilidad para encontrar la información clave en la interfaz. Hemos agrupado las tareas por objetivos comunes para poder comparar ambos prototipos.
+
+| Tarea (Intención de uso) | Caso A: Los Pajaritos | Caso B: Goiko |
+| :--- | :--- | :--- |
+| **1. Navegación Principal y Llamada a la Acción** <br> *A: Localizar el botón «Ver La Carta»* <br> *B: Localizar el botón para pedir/reservar* | **100% éxito en 1er clic** <br> Los botones centrales de la *Landing Page* son enormes y contrastan con el fondo. La acción es inmediata. | **65% éxito en 1er clic** <br> Los CTA están relegados a la esquina superior derecha. Se encuentran, pero requieren un escaneo previo de la pantalla. |
+| **2. Búsqueda de Información del Local** <br> *A: Buscar nivel de ruido y accesibilidad* <br> *B: Encontrar un local usando el mapa* | **Éxito total (Media: ~10 s)** <br> La pantalla "Nuestro Espacio" usa etiquetas visuales limpias y directas que responden al instante a la necesidad del usuario. | **Éxito parcial (Media: ~30 s)** <br> El mapa capta toda la atención visual (comprobado en los *heatmaps*), pero interactuar con él en el prototipo generó confusión en el usuario de perfil bajo (David). |
+| **3. Fidelización y Atractivo Visual** <br> *A: Revisar puntos en "Club Pajaritos"* <br> *B: Revisar galería de imágenes* | **Muy Intuitivo** <br> La tarjeta del club y la barra de "Progreso al Nivel Oro" se entienden al primer vistazo sin necesidad de leer textos largos. | **Atractivo pero menos funcional** <br> La galería llama mucho la atención, pero el texto intermedio entre el mapa y las fotos fue completamente ignorado por los usuarios. |
+
+**Resultado Agregado Global:**
+* **Tasa de éxito e intuición:** El Caso A presenta una tasa de acierto en el primer clic casi perfecta, frente a una mayor tasa de duda o "clic perdido" en el Caso B.
+* **Percepción de la estructura:** Los usuarios comprendieron la estructura de tarjetas del Caso A mucho más rápido que la estructura basada en mapas y galerías del Caso B.
+
+**Conclusión del A/B Testing:**
+El **Caso A (Los Pajaritos)** es notablemente más usable. Al evaluar las plantillas de Figma, ha quedado demostrado que el diseño del Caso A (con su barra superior clara, botones centrales grandes y uso de tarjetas para separar información como la de *Nuestro Espacio* o *La Carta*) guía al usuario de forma natural. 
+
+Por el contrario, el Caso B sufre de una jerarquía de información menos equilibrada: elementos que deberían ser rápidos (como hacer un pedido) están algo escondidos, y los elementos que ocupan más espacio visual (como el gran mapa central o los textos largos) no siempre resuelven la tarea principal del usuario, dificultando la navegación especialmente para perfiles con menos experiencia digital.
 
 ### 4.e Aplicación del método Eye Tracking
 
