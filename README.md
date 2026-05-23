@@ -310,17 +310,7 @@ Tras la interpretacion de los mapas de calor generados con la herramienta vista 
 <img width="555" height="1600" alt="Heatmap3" src="https://github.com/user-attachments/assets/099dfa93-94e0-4d2b-b4d7-8f4097ff5f32" />
 
 ### 4.f Usability Report de B
-![Método UX](img/usability-report.png) 
------
-
->>> Añadir report de usabilidad para práctica B (la de los compañeros) aportando resultados y valoración de cada debilidad de usabilidad. 
->>> Enlazar aqui con el archivo subido a P4/ que indica qué equipo evalua a qué otro equipo.
-
->>> Complementad el Case Study en su Paso 4 con una Valoración personal del equipo sobre esta tarea
-
-
-
-<br>
+https://github.com/javiirruizz/UX_CaseStudy/blob/master/P4/Usability-Report-template.md
 
 ## Paso 5. Exportación y Documentación 
 
