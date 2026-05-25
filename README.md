@@ -296,6 +296,8 @@ El **Caso A (Los Pajaritos)** es  más usable. Al evaluar las webs, ha quedado d
 
 ### 4.e Aplicación del método Eye Tracking
 
+Estudio del heatmap del caso B:
+
 Para este estudio se recopilaron a dos personas conocidas, se les puso enfrente de la página y se les indico que navegasen tranquilamente por la página y que comentasen lo que veían mas importante, tambien se les indico que viesen que botones les resultaban mas utiles y pulsarian para obtener mas informacion. La tercera persona fue un miembro de nuestro grupo quien bajo un punto de vista critico y ya siendo conocedor de como se hace una web de este estilo tendria una vision mas acertada. Se uso una unica imagen del prototipado para estudiar la diferencia de los distintos usuarios.
 
 Nuestro estudio se basa en mapas de calor que recojen la atencion que presto el usuario con la mirada a los distintos elementos de la pagina para detectar que zonas son las mas llamativas y que captan mejor la atencion del usuario. Tras este estudio llegamos a la siguiente conclusion:
@@ -306,7 +308,8 @@ Tras la interpretacion de los mapas de calor generados con la herramienta vista 
 <img width="555" height="1600" alt="Heatmap2" src="https://github.com/user-attachments/assets/0b55dbc1-fe4d-4dda-aecf-32eb52cf9ee6" />
 <img width="555" height="1600" alt="Heatmap3" src="https://github.com/user-attachments/assets/099dfa93-94e0-4d2b-b4d7-8f4097ff5f32" />
 
-Estudio del heatmap del caso A
+
+Estudio del heatmap del caso A:
 
 Se analizó dónde fijan la vista 3 usuarios al navegar por la web. El menú y la navegación genera alta atención en la parte superior, buscando atajos rápidos y accesos al perfil personal. Los botones de acción de la cabecera ("VER LA CARTA", "PEDIR AHORA", "RESERVAR") son focos de calor muy intensos y funcionan a la perfección atrayendo la atención del usuario. Las imagenes son un punto muy fuerte de la web ya que los usuarios escanean la web centrándose en las imágenes y los iconos visuales, ignorando en gran medida los párrafos de texto largos.
 
