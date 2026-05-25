@@ -308,6 +308,17 @@ Tras la interpretacion de los mapas de calor generados con la herramienta vista 
 <img width="555" height="1600" alt="Heatmap2" src="https://github.com/user-attachments/assets/0b55dbc1-fe4d-4dda-aecf-32eb52cf9ee6" />
 <img width="555" height="1600" alt="Heatmap3" src="https://github.com/user-attachments/assets/099dfa93-94e0-4d2b-b4d7-8f4097ff5f32" />
 
+Estudio del heatmap del caso A
+
+Se analizó dónde fijan la vista 3 usuarios al navegar por la web. El menú y la navegación genera alta atención en la parte superior, buscando atajos rápidos y accesos al perfil personal. Los botones de acción de la cabecera ("VER LA CARTA", "PEDIR AHORA", "RESERVAR") son focos de calor muy intensos y funcionan a la perfección atrayendo la atención del usuario. Las imagenes son un punto muy fuerte de la web ya que los usuarios escanean la web centrándose en las imágenes y los iconos visuales, ignorando en gran medida los párrafos de texto largos.
+
+El Club Pajaritos: La tarjeta de fidelización con un tono oscuro es el elemento que más destaca en su sección, reteniendo mucho la atención del usuario.El pie de página (Footer) recibe atención directa y focalizada de los usuarios que bajan buscando datos concretos: la dirección en Granada y el horario del local.
+
+<img width="1057" height="1600" alt="imagen" src="https://github.com/user-attachments/assets/854f8088-bd73-48d6-8d50-a2b7012d9c14" />
+<img width="1057" height="1600" alt="imagen" src="https://github.com/user-attachments/assets/77442056-fd26-4ef1-b008-59bdc6473d96" />
+<img width="1057" height="1600" alt="imagen" src="https://github.com/user-attachments/assets/ccc5fee0-6d98-4b5f-bfb5-b734f03a3834" />
+
+
 ### 4.f Usability Report de B
 https://github.com/javiirruizz/UX_CaseStudy/blob/master/P4/Usability-Report-template.md
 
