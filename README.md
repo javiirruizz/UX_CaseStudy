@@ -286,7 +286,7 @@ Para realizar el A/B Testing hemos evaluado los dos casos utilizando las plantil
 | Tarea (Intención de uso) | Caso A: Los Pajaritos | Caso B: Goiko |
 | :--- | :--- | :--- |
 | **1. Navegación Principal** Localizar el botón para reservar | **100% éxito en 1er clic** <br> Los botones centrales de la *Landing Page* son enormes y contrastan con el fondo. La acción es inmediata. | **75% éxito en 1er clic** <br> Los botones están situados a la esquina superior derecha. Se encuentran, pero requieren un escaneo previo de la pantalla. |
-| **2. Búsqueda de Información del Local**  Encontrar un local usando el mapa | **(Media: ~15 s)** <br> La pantalla "Nuestro Espacio" usa etiquetas visuales limpias y directas que responden al instante a la necesidad del usuario aunque haya que deslizar hacia el final de la página. | **(Media: ~10 s)** <br> El mapa capta toda la atención visual al deslizar hacia abajo. Sin embargo, la el no saber donde ubicarlo causa problemas leves en David. |
+| **2. Búsqueda de Información del Local**  Encontrar un local usando el mapa | **(Media: ~15 s)** <br> La pantalla "Nuestro Espacio" usa etiquetas visuales limpias y directas que responden al instante a la necesidad del usuario aunque haya que deslizar hacia el final de la página. | **(Media: ~10 s)** <br> El mapa capta toda la atención visual al deslizar hacia abajo. |
 | **3. Búsqueda de Información del Local**  Revisar galería de imágenes | **(Media: ~15 s)** <br> La pantalla "Nuestro Espacio" usa etiquetas visuales limpias y directas que responden al instante a la necesidad del usuario. |  **(Media:~15 s)** La galería llama mucho la atención, pero el texto intermedio entre el mapa y las fotos fue completamente ignorado por los usuarios. |
 
 **Resultado Agregado Global:**
