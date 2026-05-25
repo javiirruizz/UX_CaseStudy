@@ -238,12 +238,11 @@ tambien incluimos el caso concreto que valoraron.
 Describimos a continuacion las pruebas a realizar para la evaluacion de estos dos prototipos, adaptados para los dos casos, indicando de forma clara los objetivos y las formas de medida
 | # | Tipo de prueba (Maze) | Caso B – Goiko (Hamburguesería) | Caso A – Los Pajaritos (Cafetería) | Métrica principal |
 | :-: | :--- | :--- | :--- | :--- |
-| **1** | **Mis-click Test** | Pulsar Opcion «Añadir al carrito» (Icono "+" en la carta) | Pulsar Opcion «Ver La Carta» en la seccion de inicio | % primer clic correcto |
-| **2** | **Tarea guiada** | Localizar el restaurante más cercano usando el mapa interactivo | Abrir perfil y consultar los puntos acumulados del programa de fidelidad | Tiempo (s) + nº clics |
-| **3** | **Tarea guiada** | Iniciar sesión desde la sección "MyGoiko" para ver ofertas | Realizar un pedido rápido para "Recoger en local" (ej. un Cappuccino) | Tiempo (s) + % éxito |
-| **4** | **Tarea guiada** | Revisar la galería de imágenes (interacción) | Consultar los horarios y servicios en el local | % éxito |
-| **5** | **Cuestionario SUS** | *Evaluación de usabilidad percibida (ambos casos)* | *Evaluación de usabilidad percibida (ambos casos)* | Puntuación 0-100 |
-| **6** | **Eye-tracking** | Varias Pruebas, distintos usuarios | Varias Pruebas, distintos usuarios | TTFF + % AOI |
+| **1** | **Click Test** | Localizar el botón para reservar | Localizar el botón para reservar | % clic correcto |
+| **2** | **Tarea guiada** | Encontrar un local usando el mapa | Encontrar el local usando el mapa| Tiempo (s) |
+| **3** | **Tarea guiada** | Revisar la galería de imágenes |  Revisar galería de imágenes| Percepción |
+| **4** | **Cuestionario SUS** | *Evaluación de usabilidad percibida (ambos casos)* | *Evaluación de usabilidad percibida (ambos casos)* | Puntuación 0-100 |
+| **5** | **Eye-tracking** | Varias Pruebas, distintos usuarios | Varias Pruebas, distintos usuarios | TTFF + % AOI |
 
 ### 4.c Cuestionario SUS
 
