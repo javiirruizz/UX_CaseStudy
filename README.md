@@ -278,8 +278,6 @@ Como uno de los test para la prueba A/B testing, usaremos el **Cuestionario SUS*
 Los resultados muestran que el Caso A es más consistente y accesible para distintos perfiles de usuario. Por el contrario, el Caso B presenta una mayor barrera de entrada para usuarios con una menor experiencia tecnológica (David, 55,0), mientras que usuarios algo más técnicos logran navegarlo correctamente (Adrián, 77,5). En definitiva, el Caso A demuestra ser más accesible a más parte de usuarios, mientras que el Caso B debería de cambiar su arquitectura para hacer más sencilla de usar para los usuarios menos experimentados.
 
 ### 4.d A/B Testing
-![Método UX](img/ABtesting.png) 
------
 
 Para realizar el A/B Testing hemos evaluado los dos casos utilizando las plantillas de Figma. Esto nos ha permitido realizar pruebas enfocadas en el primer clic, la jerarquía visual y la facilidad para encontrar la información clave en la interfaz. Hemos agrupado las tareas por objetivos comunes para poder comparar ambos prototipos.
 
