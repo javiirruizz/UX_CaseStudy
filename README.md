@@ -240,7 +240,7 @@ Describimos a continuacion las pruebas a realizar para la evaluacion de estos do
 | :-: | :--- | :--- | :--- | :--- |
 | **1** | **Click Test** | Localizar el botón para reservar | Localizar el botón para reservar | % clic correcto |
 | **2** | **Tarea guiada** | Encontrar un local usando el mapa | Encontrar el local usando el mapa| Tiempo (s) |
-| **3** | **Tarea guiada** | Revisar la galería de imágenes |  Revisar galería de imágenes| Percepción |
+| **3** | **Tarea guiada** | Revisar la galería de imágenes |  Revisar galería de imágenes| Tiempo (s) |
 | **4** | **Cuestionario SUS** | *Evaluación de usabilidad percibida (ambos casos)* | *Evaluación de usabilidad percibida (ambos casos)* | Puntuación 0-100 |
 | **5** | **Eye-tracking** | Varias Pruebas, distintos usuarios | Varias Pruebas, distintos usuarios | TTFF + % AOI |
 
@@ -286,8 +286,8 @@ Para realizar el A/B Testing hemos evaluado los dos casos utilizando las plantil
 | Tarea (Intención de uso) | Caso A: Los Pajaritos | Caso B: Goiko |
 | :--- | :--- | :--- |
 | **1. Navegación Principal** Localizar el botón para reservar | **100% éxito en 1er clic** <br> Los botones centrales de la *Landing Page* son enormes y contrastan con el fondo. La acción es inmediata. | **75% éxito en 1er clic** <br> Los botones están situados a la esquina superior derecha. Se encuentran, pero requieren un escaneo previo de la pantalla. |
-| **2. Búsqueda de Información del Local**  Encontrar un local usando el mapa | **Exito parcial (Media: ~15 s)** <br> La pantalla "Nuestro Espacio" usa etiquetas visuales limpias y directas que responden al instante a la necesidad del usuario aunque haya que deslizar hacia el final de la página. | **Éxito parcial (Media: ~20 s)** <br> El mapa capta toda la atención visual al deslizar hacia abajo. Sin embargo, la el no saber donde ubicarlo causa problemas leves en David. |
-| **3. Búsqueda de Información del Local**  Revisar galería de imágenes | **Muy Intuitivo** <br> La pantalla "Nuestro Espacio" usa etiquetas visuales limpias y directas que responden al instante a la necesidad del usuario. | **Atractivo pero menos funcional** <br> La galería llama mucho la atención, pero el texto intermedio entre el mapa y las fotos fue completamente ignorado por los usuarios. |
+| **2. Búsqueda de Información del Local**  Encontrar un local usando el mapa | **(Media: ~15 s)** <br> La pantalla "Nuestro Espacio" usa etiquetas visuales limpias y directas que responden al instante a la necesidad del usuario aunque haya que deslizar hacia el final de la página. | **(Media: ~10 s)** <br> El mapa capta toda la atención visual al deslizar hacia abajo. Sin embargo, la el no saber donde ubicarlo causa problemas leves en David. |
+| **3. Búsqueda de Información del Local**  Revisar galería de imágenes | ****(Media: ~15 s)**** <br> La pantalla "Nuestro Espacio" usa etiquetas visuales limpias y directas que responden al instante a la necesidad del usuario. | **** <br> La galería **(Media: ~15 s)** llama mucho la atención, pero el texto intermedio entre el mapa y las fotos fue completamente ignorado por los usuarios. |
 
 **Resultado Agregado Global:**
 * **Tasa de éxito e intuición:** El Caso A presenta una tasa de acierto en el primer clic casi perfecta, frente a una mayor tasa de duda o en el Caso B aunque sigue siendo buena.
