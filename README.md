@@ -342,10 +342,18 @@ https://github.com/javiirruizz/UX_CaseStudy/blob/master/P4/Usability-Report-temp
 
 <br>
 
-## Conclusiones finales & Valoración de las prácticas
+## Conclusiones finales & Valoración de las prácticas:
 
+Durante las prácticas de esta asignatura, hemos trabajado como diseñadores de interfaces de usuario con el objetivo: el rediseño de la página web de la cafetería Epicureum con el nombre de nuestro proyecto "Los Pajaritos", buscamos transformarla en una herramienta más intuitiva, inclusiva y transparente. El proyecto no solo busca mejorar la navegación, sino solucionar la falta de información crítica sobre accesibilidad física para personas con discapacidad y el ambiente del local, detallando aspectos como el nivel de ruido, el aforo o la adaptación para usarlo como lugar de estudio/trabajo. Además, hemos incorporado nuevas funcionalidades que consideramos clave para el negocio, como un sistema de pedido rápido (click & collect) y un programa de fidelización digital (Club Pajaritos). De esta forma, buscamos que la página evolucione para mejorar la captación y retención de clientes habituales.  
 
->>> Opinión FINAL del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos. ¿Qué se puede mejorar? Recuerda que este tipo de texto se debe eliminar del template que se os proporciona 
+Nuestro trayecto a lo largo de las prácticas se puede observar leyendo este propio README. En varios momentos nos han faltado algunos conocimientos y hemos tenido el tiempo justo para poder realizar todo con una cierta calidad que se nos exigia, aun asi estamos orgullosos de nuestro trabajo. Tampoco podemos negar que ha sido algo interesante y divertido, ya que la forma en la que estaban orientadas las prácticas la hacia interesante y entretenida. El resultado final de nuestra página ofrece una apariencia visual atractiva y coherente. Por tanto, a pesar de las dificultades encontradas, hemos logrado finalizar bastante bien siendo conscientes de que siempre hay aspectos por mejorar. 
+
+Los temas a mejorar ya se han evidenciado en la fase de evaluación y en el documento "Usability report" de nuestros compañeros del grupo rrc, quienes se han encargado de estudiar nuestra práctica: https://github.com/Rauliitoo4/UX_CaseStudy/blob/master/P5/Usability-Report/UsabilityReport.md 
+Teniendo en cuenta este documento, principalmente, debemos simplificar la complejidad del sistema de fidelización y el flujo de pedidos online, ya que actualmente presentan barreras y una baja usabilidad para los perfiles de usuarios con una menor competencia digital. Por otro lado, el análisis de Eye Tracking nos ha revelado que los indicadores de ambiente en la sección "El Local" no logran captar toda la atención visual que nos gustaría deberían ser rediseñados para hacerlos destacar más. A nivel técnico, también debemos corregir ciertos fallos de accesibilidad, como una restricción que impide hacer zoom en la pantalla.
+
+Por último, queremos destacar que nos llevamos un aprendizaje muy valioso para otros proyectos: la herramienta Figma. Aunque en muchos momentos nos ha costado entenderla ya que para nosotros era una herramienta completamente nueva, nos alegramos de haber aprendido a utilizarlos y de la experiencia que hemos adquirido en el análisis de interfaces.
+
+En conclusión, finalizamos estas prácticas con una sensación muy positiva tras haber incorporado en nuestra formación nuevos conocimientos podríamos aplicar en nuestro futuro y que puede sernos de gran ayuda.
 
 
 
