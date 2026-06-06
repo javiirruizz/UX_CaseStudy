@@ -1,6 +1,6 @@
-## Paso 4. Pruebas de Evaluación 
+## Paso 5. Pruebas de Evaluación(P5) 
 
-### 4.a Reclutamiento de usuarios 
+### 5.a Reclutamiento de usuarios 
 
 Nos ha tocado el grupo LosProyectados cuyo estudio corresponde al caso B y el nuestro con el caso A.
 
@@ -17,7 +17,7 @@ tambien incluimos el caso concreto que valoraron.
 | Adrian  | H / 20   | Opositor  | Media-Baja       | Extrovertido     | Web        | B 
 
 
-### 4.b Diseño de las pruebas 
+### 5.b Diseño de las pruebas 
 
 Describimos a continuacion las pruebas a realizar para la evaluacion de estos dos prototipos, adaptados para los dos casos, indicando de forma clara los objetivos y las formas de medida
 | # | Tipo de prueba (Maze) | Caso B – Goiko (Hamburguesería) | Caso A – Los Pajaritos (Cafetería) | Métrica principal |
@@ -28,7 +28,7 @@ Describimos a continuacion las pruebas a realizar para la evaluacion de estos do
 | **4** | **Cuestionario SUS** | *Evaluación de usabilidad percibida (ambos casos)* | *Evaluación de usabilidad percibida (ambos casos)* | Puntuación 0-100 |
 | **5** | **Eye-tracking** | Varias Pruebas, distintos usuarios | Varias Pruebas, distintos usuarios | TTFF + % AOI |
 
-### 4.c Cuestionario SUS
+### 5.c Cuestionario SUS
 
 Aquí se recogen las puntuaciones del test de usabilidad SUS tras el uso de cada prototipo (Caso B: Goiko / Caso A: Los Pajaritos), lo que permite valorar la percepción general de usabilidad por parte de los usuarios. Sigue la estructura cuestionario SUS (impares negativos, pares positivos, le aplicamos los calculos correspondientes)
 
@@ -61,7 +61,7 @@ Como uno de los test para la prueba A/B testing, usaremos el **Cuestionario SUS*
 
 Los resultados muestran que el Caso A es más consistente y accesible para distintos perfiles de usuario. Por el contrario, el Caso B presenta una mayor barrera de entrada para usuarios con una menor experiencia tecnológica (David, 55,0), mientras que usuarios algo más técnicos logran navegarlo correctamente (Adrián, 77,5). En definitiva, el Caso A demuestra ser más accesible a más parte de usuarios, mientras que el Caso B debería de cambiar su arquitectura para hacer más sencilla de usar para los usuarios menos experimentados.
 
-### 4.d A/B Testing
+### 5.d A/B Testing
 
 Para realizar el A/B Testing hemos evaluado los dos casos utilizando las plantillas de Figma. Esto nos ha permitido realizar pruebas enfocadas en el primer clic, la jerarquía visual y la facilidad para encontrar la información clave en la interfaz. Hemos agrupado las tareas por objetivos comunes para poder comparar ambos prototipos.
 
@@ -78,7 +78,7 @@ Para realizar el A/B Testing hemos evaluado los dos casos utilizando las plantil
 **Conclusión del A/B Testing:**
 El **Caso A (Los Pajaritos)** es  más usable. Al evaluar las webs, ha quedado demostrado que el diseño del Caso A (con su barra superior clara, botones centrales grandes) guía al usuario de forma natural. Por el contrario, el Caso B sufre de una jerarquía de información menos equilibrada: elementos que deberían ser rápidos (como reservar) están algo escondidos, y los elementos que ocupan más espacio visual  no siempre resuelven la tarea principal del usuario, dificultando la navegación especialmente para perfiles con poca experienicia.
 
-### 4.e Aplicación del método Eye Tracking
+### 5.e Aplicación del método Eye Tracking
 
 Estudio del heatmap del caso B:
 
