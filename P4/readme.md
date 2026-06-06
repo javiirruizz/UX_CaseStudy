@@ -1,15 +1,10 @@
-### 5.a Exportación a HTML/React
-![Método UX](img/usabilityReview.png) 
-----
+### 4.a Exportación a HTML/React
+Enlace a la pagina web:
+(https://www.figma.com/design/47rnJBn5ntFzjEDtrpU3lU/Sin-t%C3%ADtulo?node-id=1-1011&t=JPvuOrU3YeAczbKA-0)
 
->>> Breve descripción de esta tarea. Las evidencias de este paso quedan subidas a P5/
+Enlace a los elementos figma:
 
 
-### 5.b Documentación con Storybook
-![Método UX](img/usabilityReview.png)
-----
-
->>> Breve descripción de esta tarea. Las evidencias de este paso quedan subidas a P5/
-
+Brieffing:
 
 <br>
