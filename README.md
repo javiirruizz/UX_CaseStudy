@@ -325,23 +325,6 @@ https://github.com/javiirruizz/UX_CaseStudy/blob/master/P4/Usability-Report-temp
 
 ## Paso 5. Exportación y Documentación 
 
-
-### 5.a Exportación a HTML/React
-![Método UX](img/usabilityReview.png) 
-----
-
->>> Breve descripción de esta tarea. Las evidencias de este paso quedan subidas a P5/
-
-
-### 5.b Documentación con Storybook
-![Método UX](img/usabilityReview.png)
-----
-
->>> Breve descripción de esta tarea. Las evidencias de este paso quedan subidas a P5/
-
-
-<br>
-
 ## Conclusiones finales & Valoración de las prácticas:
 
 Durante las prácticas de esta asignatura, hemos trabajado como diseñadores de interfaces de usuario con el objetivo: el rediseño de la página web de la cafetería Epicureum con el nombre de nuestro proyecto "Los Pajaritos", buscamos transformarla en una herramienta más intuitiva, inclusiva y transparente. El proyecto no solo busca mejorar la navegación, sino solucionar la falta de información crítica sobre accesibilidad física para personas con discapacidad y el ambiente del local, detallando aspectos como el nivel de ruido, el aforo o la adaptación para usarlo como lugar de estudio/trabajo. Además, hemos incorporado nuevas funcionalidades que consideramos clave para el negocio, como un sistema de pedido rápido (click & collect) y un programa de fidelización digital (Club Pajaritos). De esta forma, buscamos que la página evolucione para mejorar la captación y retención de clientes habituales.  
