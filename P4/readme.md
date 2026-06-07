@@ -8,6 +8,9 @@ Enlace a los elementos figma (landing page):
 
 (https://www.figma.com/design/47rnJBn5ntFzjEDtrpU3lU/Sin-t%C3%ADtulo?node-id=1-1011&t=JPvuOrU3YeAczbKA-0)
 
+Video pagina web "Los Pajaritos":
+
+https://github.com/user-attachments/assets/49e867df-b77a-4e33-9954-56382596287e
 
 Brieffing:
 El proceso empezó en Figma, donde organicé y diseñé visualmente cómo quería que fuera la landing page. En este lienzo digital coloqué todos los elementos en su sitio: los botones, las imágenes, los bloques de texto y los formularios, asegurándome de que todo tuviera un aspecto atractivo, ordenado y fácil de entender para cualquier persona que visite la página en el futuro.
