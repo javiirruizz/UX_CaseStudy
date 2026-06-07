@@ -9,5 +9,9 @@ Enlace a los elementos figma (landing page):
 
 
 Brieffing:
+El proceso empezó en Figma, donde organicé y diseñé visualmente cómo quería que fuera la landing page. En este lienzo digital coloqué todos los elementos en su sitio: los botones, las imágenes, los bloques de texto y los formularios, asegurándome de que todo tuviera un aspecto atractivo, ordenado y fácil de entender para cualquier persona que visite la página en el futuro.
 
+Para pasar el diseño a una página web real sin tener que programar todo desde cero, utilicé la herramienta de exportación automatizada Figma Maker. Una vez que obtuve el código base, aproveché la Inteligencia Artificial de Figma para hacer los retoques finales; esto me ayudó a pulir detalles, corregir pequeños errores de alineación y asegurar que la página se adaptara perfectamente a las pantallas de ordenadores y móviles.
+
+Lo más destacable de este método de trabajo fue lo rápido y bien que quedó el resultado final. Gracias al uso combinado del exportador y la IA, la página web terminada es una copia mejorada del diseño original en Figma, manteniendo la misma esencia , pero funcionando ya como una web interactiva y real lista para usarse.
 <br>
